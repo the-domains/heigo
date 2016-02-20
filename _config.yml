@@ -1,0 +1,28 @@
+name: heigo
+favicon: null
+layout_spectrum: 0.036056347424164414
+typography_spectrum: 0.7418939827475697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42576363938860595
+  lightness: 0.9499883262906224
+  saturation: 0.13411269523203373
+  rhythmicContrast: 0.8477287720888853
+purpose: []
