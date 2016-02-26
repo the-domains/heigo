@@ -1,28 +1,40 @@
-name: heigo
-favicon: null
-layout_spectrum: 0.036056347424164414
-typography_spectrum: 0.7418939827475697
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#c0e2fd'
-    - '#1dadfb'
-    - '#384b62'
-    - '#7da1b3'
-    - '#090a0c'
-  brandStrength: 0.42576363938860595
-  lightness: 0.9499883262906224
-  saturation: 0.13411269523203373
-  rhythmicContrast: 0.8477287720888853
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.1341126952320337
+  brandStrength: 1
+  lightness: 0.9499883262906224
+  brandColors:
+    - '#050101'
+    - '#39273A'
+    - '#774B65'
+    - '#FF804B'
+    - '#FFDFBD'
+  rhythmicContrast: 0.8477287720888853
+typography_spectrum: 0.4731183
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.297491
+favicon: null
+name: heigo
